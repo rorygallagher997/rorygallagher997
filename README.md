@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rory, an <a href="https://linkedin.com/in/rorygallagher997">IT and Cybersecurity Professional
+<h1>Rory Gallagher, an aspiring <a href="https://linkedin.com/in/rorygallagher997">IT and Cybersecurity Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
