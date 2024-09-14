@@ -5,8 +5,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/rorygallagher997/configuring-active-directory)
   - [Configuring DNS settings within Azure VMs](https://github.com/rorygallagher997/configure-dns)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Network File Shares and Permissions within Azure VMs](https://github.com/chrisignas/configure-network-file-shares-and-permissions)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rorygallagher997/azure-nsg)
+  - [Network File Shares and Permissions within Azure VMs](https://github.com/rorygallagher997/network-file-shares-and-permissions)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
