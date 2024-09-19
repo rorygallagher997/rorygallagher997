@@ -10,6 +10,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/rorygallagher997/osticket-install)
+  - [osTicket: Post-Installation Configuration](https://github.com/rorygallagher997/osticket-config)
 
 
 <h2>🤳Connect with me:</h2>
